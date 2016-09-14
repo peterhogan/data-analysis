@@ -1,0 +1,15 @@
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-92.718 -20.441   2.661  23.324  61.130 
+
+Coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  5050.61      76.63   65.91   <2e-16 ***
+avg.speed     -69.70       2.06  -33.84   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 35.54 on 18 degrees of freedom
+Multiple R-squared:  0.9845,	Adjusted R-squared:  0.9837 
+F-statistic:  1145 on 1 and 18 DF,  p-value: < 2.2e-16
+

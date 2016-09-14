@@ -1,0 +1,8 @@
+What do i want from the data?
+
+First
+Big spread of data to get a feel
+pairs() - split the pairs so not too big
+
+Specific Plots
+
